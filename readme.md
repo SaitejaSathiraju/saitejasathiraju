@@ -10,7 +10,7 @@
     align="right" />
 </picture>
 
--# 👋 Hi, I’m @Sai Teja SHB
+# 👋 Hi, I’m @Sai Teja SHB
 
 - 💻 Software Engineer | Full-Stack Web Developer  
 - 🛰 ISRO Intern – National Web Infrastructure Team  
