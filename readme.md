@@ -10,7 +10,7 @@
     align="right" />
 </picture>
 
-- 👋 Hi, I’m @iAmCorey
+- 👋 Hi, I’m @Sai Teja SHB
 - 💻 Software Engineer
 - 🕸 Full-Stack Web Developer
 - ☕️ Inide Hacker
