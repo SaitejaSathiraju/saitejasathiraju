@@ -8,7 +8,7 @@
 - ⚙️ Indie Hacker | Building Tools with Purpose  
 - 👀 Currently Exploring: AI Infrastructure, LLMs, MLOps  
 - 📷 Hobbyist Photographer  
-- 📍 Living in Shenzhen, China  
+- 📍 Living in India
 - 📫 Reach me: **sattirajusaiteja@gmail.com**
 
 ---
