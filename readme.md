@@ -1,81 +1,92 @@
-<h1 align="center">Hi, I'm Sai Teja Sathiraju <img src="https://media.giphy.com/media/hvRJCLFzcyK5G/giphy.gif" width="28"></h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sai%20Teja%20Sathiraju&fontSize=70&animation=fadeIn" />
 
-<p align="center">
-  <b>AI Infrastructure Engineer • Indie Hacker • ISRO Alum</b>
-</p>
+  ### 🤖 AI Engineer | Full-Stack Developer | Indie Hacker
+  **Building purposeful intelligence from India to the world.**
+  
+  <p align="center">
+    <a href="mailto:sattirajusaiteja@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-white?style=for-the-badge&logo=gmail&logoColor=red&labelColor=111" /></a>
+    <img src="https://img.shields.io/badge/📍-Hyderabad%2C%20India-white?style=for-the-badge&labelColor=111" />
+  </p>
+</div>
 
+---
+
+### ⚡ The Mission
+I specialize in bridging the gap between deep AI infrastructure and intuitive user experiences. My journey spans from architecting **National Web Infrastructure at ISRO** to building agentic productivity suites.
+
+* 🛰 **ISRO Intern** – National Web Infrastructure Team
+* 🤖 **Applied AI/ML Fellow** @ Tech Bharath
+* ⚙️ **Currently Exploring:** AI Infrastructure, LLMs, MLOps
+* 📷 **Creative Outlet:** Hobbyist Photographer
+
+---
+
+### 🤝 Strategic Collaborations
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-LLM%20Humanization-blue?style=for-the-badge&labelColor=111" />
-  <img src="https://img.shields.io/badge/Currently-Agentic%20Frameworks-7159c1?style=for-the-badge&labelColor=111" />
-  <img src="https://img.shields.io/badge/Hardware-RTX%205090-white?style=for-the-badge&labelColor=111&logo=nvidia" />
+  <img src="https://download.logo.wine/logo/Indian_Space_Research_Organisation/Indian_Space_Research_Organisation-Logo.wine.png" height="50" style="margin:15px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" height="40" style="margin:15px;" />
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQF4kreXiLJAkg/company-logo_200_200/B56Zg8K_7NG0AQ-/0/1753356176324/techbharatai_logo?e=2147483647&v=beta&t=UI6O2fNePDrIKHjNRfH9N43lRCwJHJntmI7o9FI9RB0" height="50" style="margin:15px; border-radius:8px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Emblem_of_Andhra_Pradesh.svg" height="50" style="margin:15px;" />
 </p>
 
 ---
 
-### ⚡ Technical Narrative
-I build at the intersection of **Scalable Infrastructure** and **Neural Intelligence**. My work spans from optimizing national-level web systems at **ISRO** to developing **GQICS FeedbackTune**, an agentic learning framework for LLMs. I specialize in synthetic data generation and making AI sound, well... more human.
+### 🌍 My Projects
+<br/>
 
-- 🔭 **Working on:** [MonkeyMonk.ai](https://monkeymonk.ai) & [CultNode](https://cultnode.com)
-- 🧠 **Researching:** RLHF, Contextual Translation, and Custom Silicon for LLMs.
-- 🛠 **Stack:** Next.js, FastAPI, PyTorch, Docker, & MLOps.
-- 📍 **Location:** Hyderabad, India 🇮🇳
+<details open>
+<summary><b>🚀 Production Tools</b></summary>
+<br/>
+<blockquote>
+  <b><a href="https://monkeymonk.ai">monkeymonk.ai</a></b><br/>
+  AI-powered productivity suite for modern creators and teams.
+</blockquote>
+<blockquote>
+  <b><a href="https://cultnode.com">cultnode.com</a></b><br/>
+  A platform exploring decentralized culture, content, and tools.
+</blockquote>
+</details>
+
+<details>
+<summary><b>🧪 Research & Engineering</b></summary>
+<br/>
+<blockquote>
+  <b>isro-web-platform</b><br/>
+  National web infra project during ISRO internship (Private Repository).
+</blockquote>
+<blockquote>
+  <b>ai-research-lab</b><br/>
+  Collection of experimental AI/ML tools and papers (In Progress).
+</blockquote>
+<blockquote>
+  <b>photojournal</b><br/>
+  Visual storytelling through code + camera (Coming Soon).
+</blockquote>
+</details>
 
 ---
 
-### 🏢 Ecosystem & Impact
+### 🛠 Tech Stack
 <p align="left">
-  <a href="https://www.isro.gov.in/"><img src="https://img.shields.io/badge/ISRO-National%20Infrastructure-blue?style=flat-square&logo=spacex&logoColor=white" height="25" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TechBharath-Applied%20AI%20Fellow-FFD700?style=flat-square&logo=google-cloud&logoColor=black" height="25" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Indie_Hacker-Active_Builder-FF4500?style=flat-square&logo=stripe&logoColor=white" height="25" /></a>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,nextjs,react,tailwind,ts,postgres,aws,github" />
 </p>
 
 ---
 
-### 🚀 Featured Engineering
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Humanizer LLM</h4>
-      <p>A specialized model for contextual translation and style humanization. Built for high-fidelity synthetic data generation.</p>
-      <code>Python</code> <code>PyTorch</code> <code>Transformers</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛰 National Web Infra (ISRO)</h4>
-      <p>Developed high-availability systems for the National Web Infrastructure Team during my tenure at ISRO.</p>
-      <code>WebScale</code> <code>Architecture</code> <code>Security</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🐒 MonkeyMonk.ai</h4>
-      <p>Productivity suite for modern creators. Bridging the gap between AI and seamless UI/UX.</p>
-      <code>Next.js</code> <code>Typescript</code> <code>PostgreSQL</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌀 GQICS FeedbackTune</h4>
-      <p>An agentic learning framework designed to fine-tune LLM responses based on iterative feedback loops.</p>
-      <code>Agentic AI</code> <code>RLHF</code> <code>MLOps</code>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Tactical Stats
+### 📈 GitHub Pulse
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAITEJASHB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAITEJASHB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
-</p>
-
----
-
-### 📷 Beyond the Terminal
-When I'm not fine-tuning models or shipping apps, I'm capturing the world through a lens. **Photojournal** (My visual storytelling project) is coming soon.
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAITEJASHB&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SAITEJASHB&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-snake/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-contribution-snake/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=2&section=footer" width="100%" />
 </p>
