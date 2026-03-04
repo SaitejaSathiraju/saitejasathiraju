@@ -1,61 +1,102 @@
-# 👋 Hi, I’m @Sai Teja SHB
+<!-- ======================== -->
+<!--        HEADER BANNER     -->
+<!-- ======================== -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Sai%20Teja%20SHB&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
+<h3 align="center">
+AI Engineer • ISRO Intern • Indie Hacker
+</h3>
 
-- 💻 Ai Engineer | Full-Stack Web Developer  
+<p align="center">
+Designing intelligent systems that scale.
+</p>
 
+---
+
+## 🧑‍💻 About Me
+
+- 💻 AI Engineer | Full-Stack Web Developer  
 - 🛰 ISRO Intern – National Web Infrastructure Team  
-
-- 🤖 Applied AI/ML Fellow @ Tech Bharath – Applied AI Engineer Track  
-
-- ⚙️ Indie Hacker | Building Tools with Purpose  
-
-- 👀 Currently Exploring: AI Infrastructure, LLMs, MLOps  
-
+- 🤖 Applied AI/ML Fellow – Applied AI Engineer Track  
+- ⚙️ Indie Hacker | Building tools with purpose  
+- 🧠 Exploring: AI Infrastructure, LLMs, MLOps  
 - 📷 Hobbyist Photographer  
-
-- 📍 Living in India
-
-- 📫 Reach me: **sattirajusaiteja@gmail.com**
+- 📍 India  
+- 📫 sattirajusaiteja@gmail.com  
 
 ---
 
-🤝 Worked & Collaborated With
+## 🚀 Featured Projects
 
-<p align="center"> <img src="https://download.logo.wine/logo/Indian_Space_Research_Organisation/Indian_Space_Research_Organisation-Logo.wine.png" height="70" style="margin:20px;" alt="ISRO Logo"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" height="70" style="margin:20px;" alt="Google Logo"/> <img src="https://media.licdn.com/dms/image/v2/D560BAQF4kreXiLJAkg/company-logo_200_200/B56Zg8K_7NG0AQ-/0/1753356176324/techbharatai_logo?e=2147483647&v=beta&t=UI6O2fNePDrIKHjNRfH9N43lRCwJHJntmI7o9FI9RB0" height="70" style="margin:20px; border-radius:12px;" alt="TechBharath.ai Logo"/> <img src="https://media.licdn.com/dms/image/v2/C4D1BAQEhwK-OoPG9wg/company-background_10000/company-background_10000/0/1637935453258/paradigmitgroup_cover?e=2147483647&v=beta&t=6ji8PGxrRvIn1NIXfjxuUEFExgDFomJ80Fr_JsbPZZo" height="70" style="margin:20px; border-radius:12px;" alt="Paradigm IT Logo"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Emblem_of_Andhra_Pradesh.svg" height="70" style="margin:20px;" alt="Government of Andhra Pradesh Emblem"/> </p>
-
-## 🌍 My Projects
-
-
-
-| Name | Description |
-
-|------|-------------|
-
-| [**monkeymonk.ai**](https://monkeymonk.ai) | AI-powered productivity suite for modern creators and teams. |
-
-| [**cultnode.com**](https://cultnode.com) | A platform exploring decentralized culture, content, and tools. |
-
-| **isro-web-platform** | National web infra project during ISRO internship (private repo). |
-
-| **ai-research-lab** | Collection of experimental AI/ML tools and papers (in progress). |
-
-| **photojournal** | Visual storytelling through code + camera. Coming soon. |
-
-
+### 🧠 monkeymonk.ai  
+AI-powered productivity suite for modern creators and teams.  
+🔗 https://monkeymonk.ai  
 
 ---
 
+### 🌍 cultnode.com  
+Exploring decentralized culture, content, and tools.  
+🔗 https://cultnode.com  
 
+---
 
-<!-- Contribution Snake Animation -->
+### 🛰 isro-web-platform  
+National web infrastructure project during ISRO internship *(Private Repository)*  
+
+---
+
+### 🔬 ai-research-lab  
+Experimental AI/ML tools and research explorations *(In Progress)*  
+
+---
+
+### 📷 photojournal  
+Visual storytelling through code + camera *(Coming Soon)*  
+
+---
+
+## 🤝 Collaborations
+
+<p align="center">
+  <img src="https://download.logo.wine/logo/Indian_Space_Research_Organisation/Indian_Space_Research_Organisation-Logo.wine.png" height="60" style="margin:15px; border-radius:10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" height="60" style="margin:15px; border-radius:10px;" />
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQF4kreXiLJAkg/company-logo_200_200/B56Zg8K_7NG0AQ-/0/1753356176324/techbharatai_logo?e=2147483647&v=beta&t=UI6O2fNePDrIKHjNRfH9N43lRCwJHJntmI7o9FI9RB0" height="60" style="margin:15px; border-radius:10px;" />
+  <img src="https://media.licdn.com/dms/image/v2/C4D1BAQEhwK-OoPG9wg/company-background_10000/company-background_10000/0/1637935453258/paradigmitgroup_cover?e=2147483647&v=beta&t=6ji8PGxrRvIn1NIXfjxuUEFExgDFomJ80Fr_JsbPZZo" height="60" style="margin:15px; border-radius:10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Emblem_of_Andhra_Pradesh.svg" height="60" style="margin:15px; border-radius:10px;" />
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,aws,docker,kubernetes,tensorflow,pytorch,postgres" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
 
 <picture>
-
   <source media="(prefers-color-scheme: dark)" srcset="github-contribution-snake/github-contribution-grid-snake-dark.svg" />
-
   <source media="(prefers-color-scheme: light)" srcset="github-contribution-snake/github-contribution-grid-snake.svg" />
-
   <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
-</picture> 
+---
+
+<h3 align="center">
+Building AI infrastructure for the next decade.
+</h3>
