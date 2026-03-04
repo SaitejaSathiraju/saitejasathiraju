@@ -13,9 +13,7 @@
 
   .
 
-🤝 Worked & Collaborated With
-<p align="left"> <!-- ISRO --> <img src="[https://upload.wikimedia.org/wikipedia/commons/b/bd/Indian_Space_Research_Organisation_Logo.svg](https://download.logo.wine/logo/Indian_Space_Research_Organisation/Indian_Space_Research_Organisation-Logo.wine.png)" width="110" alt="ISRO Logo"/> <!-- Google --> <img src="[https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg](https://storage.googleapis.com/gd-prod/images/a910d418-7123-4bc4-aa3b-ef7e25e74ae6.faa49ab5e1fff880.webp)" width="110" alt="Google Logo"/> <!-- TechBharath.ai (Replace with official logo URL if available) --> <img src="https://via.placeholder.com/160x60?text=TechBharath.ai" width="140" alt="TechBharath.ai Logo"/> <!-- Paradigm IT --> <img src="https://via.placeholder.com/160x60?text=Paradigm+IT" width="140" alt="Paradigm IT Logo"/> </p>
-
+<p align="left"> <!-- ISRO --> <img src="https://download.logo.wine/logo/Indian_Space_Research_Organisation/Indian_Space_Research_Organisation-Logo.wine.png" width="120" alt="ISRO Logo" style="margin-right:25px;" /> <!-- Google --> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="120" alt="Google Logo" style="margin-right:25px;" /> <!-- TechBharath.ai (Replace with official logo URL when available) --> <img src="https://via.placeholder.com/160x60?text=TechBharath.ai" width="150" alt="TechBharath.ai Logo" style="margin-right:25px;" /> <!-- Paradigm IT (Replace with official logo URL when available) --> <img src="https://via.placeholder.com/160x60?text=Paradigm+IT" width="150" alt="Paradigm IT Logo" /> </p>
 ---
 
 ## 🌍 My Projects
