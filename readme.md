@@ -53,7 +53,7 @@ Visual storytelling through code + camera *(Coming Soon)*
 
 ---
 
-## 🤝 Collaborations
+## 🤝Companies I’ve Worked With
 
 <p align="center">
   <img src="https://download.logo.wine/logo/Indian_Space_Research_Organisation/Indian_Space_Research_Organisation-Logo.wine.png" height="60" style="margin:12px; border-radius:12px;" />
