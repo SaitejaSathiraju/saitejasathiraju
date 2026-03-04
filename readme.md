@@ -1,39 +1,52 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sai%20Teja%20SHB&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Sai%20Teja%20SHB&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">AI Engineer • ISRO Intern • Indie Hacker</h3>
-<p align="center">Building AI infrastructure and intelligent tools for the next decade</p>
+<h3 align="center" style="color:#ffffff">AI Engineer • ISRO Intern • Indie Hacker</h3>
+<p align="center" style="color:#cccccc">Building autonomous AI systems, agentic finance tools, and large-scale AI infrastructure.</p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 💻 AI Engineer | Full-Stack Developer  
+- 💻 AI Engineer | Full-Stack Web Developer  
 - 🛰 ISRO Intern – National Web Infrastructure Team  
 - 🤖 Applied AI/ML Fellow – Applied AI Engineer Track @ Tech Bharath  
-- ⚙️ Indie Hacker | Building tools with purpose  
+- ⚙️ Indie Hacker | Building fully agentic AI tools  
 - 📍 India | 📷 Hobbyist Photographer  
 - 📫 sattirajusaiteja@gmail.com  
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-**[monkeymonk.ai](https://monkeymonk.ai)**  
+### 🧠 [monkeymonk.ai](https://monkeymonk.ai)  
 AI-powered productivity suite for modern creators and teams.  
 
-**[cultnode.com](https://cultnode.com)**  
-Decentralized culture, content, and tools.  
+---
 
-**isro-web-platform**  
+### 🌍 [cultnode.com](https://cultnode.com)  
+Exploring decentralized culture, content, and tools.  
+
+---
+
+### 💰 [punjipati.com](https://punjipati.com)  
+100% agentic, no human-in-the-loop platform for autonomous finance operations.  
+
+---
+
+### 🛰 isro-web-platform  
 National web infra project during ISRO internship *(Private Repo)*  
 
-**ai-research-lab**  
+---
+
+### 🔬 ai-research-lab  
 Experimental AI/ML tools & research *(In Progress)*  
 
-**photojournal**  
+---
+
+### 📷 photojournal  
 Visual storytelling through code + camera *(Coming Soon)*  
 
 </div>
@@ -53,13 +66,15 @@ Visual storytelling through code + camera *(Coming Soon)*
 ---
 
 ## 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,aws,docker,kubernetes,tensorflow,pytorch,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,aws,docker,kubernetes,tensorflow,pytorch,postgres,graphql,redis" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" height="160"/>
@@ -68,6 +83,7 @@ Visual storytelling through code + camera *(Coming Soon)*
 ---
 
 ## 🐍 Contribution Graph
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="github-contribution-snake/github-contribution-grid-snake-dark.svg" />
@@ -78,4 +94,6 @@ Visual storytelling through code + camera *(Coming Soon)*
 
 ---
 
-<h3 align="center">Let’s build AI infrastructure for the future.</h3>
+<h3 align="center" style="color:#ffffff">
+Let’s build autonomous AI systems that scale.
+</h3>
