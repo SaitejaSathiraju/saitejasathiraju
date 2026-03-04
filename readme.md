@@ -22,7 +22,7 @@
 <div align="center">
 
 ### 🧠 [monkeymonk.ai](https://monkeymonk.ai)  
-AI-powered productivity suite for modern creators and teams.  
+AI-powered travel
 
 ---
 
