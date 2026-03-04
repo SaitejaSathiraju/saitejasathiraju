@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m @Sai Teja SHB
 
-- 💻 Software Engineer | Full-Stack Web Developer  
+- 💻 Ai Engineer | Full-Stack Web Developer  
 - 🛰 ISRO Intern – National Web Infrastructure Team  
 - 🤖 Applied AI/ML Fellow @ Tech Bharath – Applied AI Engineer Track  
 - ⚙️ Indie Hacker | Building Tools with Purpose  
