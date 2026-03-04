@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Sai%20Teja%20SHB&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center" style="color:#ffffff">AI Engineer • ISRO Intern • Indie Hacker</h3>
+<h3 align="center" style="color:#ffffff">AI Engineer • ISRO Intern </h3>
 <p align="center" style="color:#cccccc">Building autonomous AI systems, agentic finance tools, and large-scale AI infrastructure.</p>
 
 ---
