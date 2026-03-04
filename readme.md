@@ -1,82 +1,64 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sai%20Teja%20Sathiraju&fontSize=70&animation=fadeIn" />
-
-  ### 🤖 AI Engineer | Full-Stack Developer | Indie Hacker
-  **Building purposeful intelligence from India to the world.**
-  
+  <h1>Sai Teja Sathiraju</h1>
+  <p><b>AI Engineer & Full-Stack Developer</b></p>
   <p align="center">
-    <a href="mailto:sattirajusaiteja@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-white?style=for-the-badge&logo=gmail&logoColor=red&labelColor=111" /></a>
-    <img src="https://img.shields.io/badge/📍-Hyderabad%2C%20India-white?style=for-the-badge&labelColor=111" />
+    <a href="mailto:sattirajusaiteja@gmail.com">Email</a> • 
+    <a href="https://linkedin.com/in/YOUR_USER_NAME">LinkedIn</a> • 
+    <a href="https://monkeymonk.ai">MonkeyMonk</a>
   </p>
 </div>
 
 ---
 
-### ⚡ The Mission
-I specialize in bridging the gap between deep AI infrastructure and intuitive user experiences. My journey spans from architecting **National Web Infrastructure at ISRO** to building agentic productivity suites.
+### ⚡ Executive Summary
+Full-stack engineer specializing in **AI Infrastructure** and **LLM orchestration**. Currently building autonomous tools and scaling national-level web systems. 
 
-* 🛰 **ISRO Intern** – National Web Infrastructure Team
-* 🤖 **Applied AI/ML Fellow** @ Tech Bharath
-* ⚙️ **Currently Exploring:** AI Infrastructure, LLMs, MLOps
-* 📷 **Creative Outlet:** Hobbyist Photographer
-
----
-
-### 🤝 Strategic Collaborations
-<p align="center">
-  <img src="https://download.logo.wine/logo/Indian_Space_Research_Organisation/Indian_Space_Research_Organisation-Logo.wine.png" height="50" style="margin:15px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" height="40" style="margin:15px;" />
-  <img src="https://media.licdn.com/dms/image/v2/D560BAQF4kreXiLJAkg/company-logo_200_200/B56Zg8K_7NG0AQ-/0/1753356176324/techbharatai_logo?e=2147483647&v=beta&t=UI6O2fNePDrIKHjNRfH9N43lRCwJHJntmI7o9FI9RB0" height="50" style="margin:15px; border-radius:8px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Emblem_of_Andhra_Pradesh.svg" height="50" style="margin:15px;" />
-</p>
+* 🛰 **ISRO Intern** — National Web Infrastructure Team.
+* 🤖 **Applied AI/ML Fellow** — Tech Bharath.
+* ⚙️ **Indie Hacker** — Architecting purpose-driven AI tools.
+* 📍 Based in **India**.
 
 ---
 
-### 🌍 My Projects
-<br/>
+### 🤝 Strategic Impact
+*Direct contributions and collaborations with industry leaders.*
 
-<details open>
-<summary><b>🚀 Production Tools</b></summary>
-<br/>
-<blockquote>
-  <b><a href="https://monkeymonk.ai">monkeymonk.ai</a></b><br/>
-  AI-powered productivity suite for modern creators and teams.
-</blockquote>
-<blockquote>
-  <b><a href="https://cultnode.com">cultnode.com</a></b><br/>
-  A platform exploring decentralized culture, content, and tools.
-</blockquote>
-</details>
-
-<details>
-<summary><b>🧪 Research & Engineering</b></summary>
-<br/>
-<blockquote>
-  <b>isro-web-platform</b><br/>
-  National web infra project during ISRO internship (Private Repository).
-</blockquote>
-<blockquote>
-  <b>ai-research-lab</b><br/>
-  Collection of experimental AI/ML tools and papers (In Progress).
-</blockquote>
-<blockquote>
-  <b>photojournal</b><br/>
-  Visual storytelling through code + camera (Coming Soon).
-</blockquote>
-</details>
-
----
-
-### 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,nextjs,react,tailwind,ts,postgres,aws,github" />
+  <img src="https://download.logo.wine/logo/Indian_Space_Research_Organisation/Indian_Space_Research_Organisation-Logo.wine.png" height="35" style="margin-right:25px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" height="25" style="margin-right:25px;" />
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQF4kreXiLJAkg/company-logo_200_200/B56Zg8K_7NG0AQ-/0/1753356176324/techbharatai_logo?e=2147483647&v=beta&t=UI6O2fNePDrIKHjNRfH9N43lRCwJHJntmI7o9FI9RB0" height="35" style="border-radius:4px;" />
 </p>
 
 ---
 
-### 📈 GitHub Pulse
+### 🌍 Shipped & Active
+**`01` [monkeymonk.ai](https://monkeymonk.ai)**
+AI-powered productivity suite for modern creators and teams. Focus on seamless UX/AI integration.
+
+**`02` [cultnode.com](https://cultnode.com)**
+A platform exploring decentralized culture, content, and tools.
+
+**`03` isro-web-platform**
+Architected national web infrastructure components (Private).
+
+**`04` ai-research-lab**
+Experimental framework for MLOps and synthetic data generation.
+
+**`05` photojournal**
+Visual storytelling at the intersection of code and optics (Coming soon).
+
+---
+
+### 🛠 Technical Capabilities
+**`AI/ML`** — LLMs, MLOps, PyTorch, Synthetic Data Gen, RLHF
+**`Web`** — Next.js, TypeScript, FastAPI, PostgreSQL, Tailwind
+**`Infra`** — Docker, AWS, National Scale Web Systems
+
+---
+
+### 📉 Engineering Pulse
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAITEJASHB&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SAITEJASHB&show_icons=true&theme=vibrant&hide_border=true&title_color=000&icon_color=000&text_color=333" height="150" />
 </p>
 
 <p align="center">
@@ -87,6 +69,6 @@ I specialize in bridging the gap between deep AI infrastructure and intuitive us
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=2&section=footer" width="100%" />
-</p>
+<div align="center">
+  <sub>Built with purpose. © 2026</sub>
+</div>
